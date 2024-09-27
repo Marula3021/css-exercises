@@ -36,7 +36,7 @@ button {
   border: 1px solid #eee;
   display: block;
   padding: 8px 24px;
-  margin: 0auto;
+  margin: 0 auto;
 }
 button:hover {
   background-color: aqua;
