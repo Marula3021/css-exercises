@@ -21,14 +21,12 @@ body {
 
 .content {
   background: #e3f4ff;
-  display: inline-block;
   margin-bottom: 8px;
-  padding: 16px 8px 16px 8px;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
-  display: block;
   text-align: center;
   padding: 8px;
 }
@@ -37,8 +35,8 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  padding: 8px 24px 8px 24px;
-  margin: auto;
+  padding: 8px 24px;
+  margin: 0auto;
 }
 button:hover {
   background-color: aqua;
